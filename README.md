@@ -1,5 +1,5 @@
 # Reverse-integer
-Reverse an integer entered by the user in C++ programming.
+Reverse an integer entered by the user through C++ programming.
 This problem is solved by using while loop.
 This program takes an integer input from the user and stores it in variable n.
 Then the while loop is iterated until n != 0 is false.
